@@ -26,16 +26,16 @@ pip install pyqrcode pypng
 
 `git clone https://github.com/isaccanedo/QR_code_generation`
 
-3. Execute o script:
+2. Execute o script:
 
    ```bash
    python qr_code_generator.py
    ```
 
-4. Siga as instruções na tela:
+3. Siga as instruções na tela:
    - Insira o texto que deseja converter em QR Code.
    - Insira o nome desejado para o arquivo PNG (sem extensão).
-5. O script irá:
+4. O script irá:
    - Gerar o QR Code.
    - Exibi-lo na tela (opcional).
    - Salvá-lo como um arquivo PNG no mesmo diretório do script.
