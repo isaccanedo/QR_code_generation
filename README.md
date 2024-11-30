@@ -1,6 +1,6 @@
 # Gerador de QR Code
 
-Este é um script em Python para gerar QR Codes a partir de texto fornecido pelo usuário. O QR Code gerado pode ser exibido e salvo como uma imagem PNG.
+Este é um script em Python para gerar QR Codes a partir de texto fornecido pelo usuário. O QR Code gerado pode ser exibido e salvo como uma imagem PNG
 
 ## Funcionalidades
 - Converta qualquer texto em um QR Code.
